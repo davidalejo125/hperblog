@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-=======
 CABECERA
 
->>>>>>> cabecera
 Hola me llamo David
 
 Estoy estudiando programacion
